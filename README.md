@@ -7,15 +7,6 @@ I mainly work with Python, however, I am interested in other programming languag
 
 I am most known for RecNetBot, and I am currently working on rewriting it. Check out its [organization](https://github.com/RecNetBot-Development)!
 
-### I am currently working on
-- Programming RecNetBot's third iteration
-- Learning C and Linux
-
-### I am interested in working on
-- Learning the following languages:
-  - C++
-  - JavaScript / TypeScript
-  - Swift
 
 ## GitHub stats
 [![Jegarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jegarde&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
