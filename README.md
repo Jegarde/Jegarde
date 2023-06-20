@@ -1,6 +1,4 @@
 # Hi there 👋
-
-## About me
 My name is Jesse and I am from 🇫🇮 Finland.
 
 I mainly work with Python. I am also familiar with C and JavaScript.
