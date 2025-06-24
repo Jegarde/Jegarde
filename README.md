@@ -1,5 +1,5 @@
 # 😸 Hi buddy!
-I love programming and cats (and dogs)!
+I love programming, cats and dogs!
 
 ### 📒 Portfolio 
 I am most known for my projects involving [Rec Room](https://recroom.com/), such as:
