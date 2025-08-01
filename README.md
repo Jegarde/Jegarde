@@ -9,7 +9,8 @@ I am most known for my projects involving [Rec Room](https://recroom.com/), such
 - [RecNetPy](https://github.com/RecNetBot-Development/RecNetPy), the most powerful Rec Room API wrapper that also powers [RecNetBot](https://github.com/RecNetBot-Development/RecNetBot).
 - [RecNet-Login](https://github.com/Jegarde/RecNet-Login), a Python package made for generating a Rec Room OAuth2.0 bearer token.
 - [CircuitsAPI](https://github.com/Jegarde/CircuitsAPI), a system to communicate with Rec Room's in-game circuits, which is not possible under normal circumstances.
-- [RecRoomDiscordRPC](https://github.com/Jegarde/RecRoomDiscordRPC), a cross-platform Discord rich presence client for Rec Room. 
+- [RecRoomDiscordRPC](https://github.com/Jegarde/RecRoomDiscordRPC), a cross-platform Discord rich presence client for Rec Room.
+- The [VR experiences](https://rec.net/user/Jegarde/rooms) I have created in Rec Room with their UGC tools.
   
 My other equally awesome projects include:
 - [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer made with Arduino UNO R3.
