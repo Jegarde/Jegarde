@@ -1,4 +1,5 @@
-# 😸 Hi buddy!
+<img width="961" height="200" alt="Header: Jegarde, aka Jesse, hello buddy!" src="https://github.com/user-attachments/assets/992af08d-160a-4803-bcb6-d45a0ac043c2" />
+
 I love sharing my work for free, open to all. Have a look!
 
 ### 📒 Portfolio 
@@ -13,6 +14,10 @@ I am most known for my projects involving [Rec Room](https://recroom.com/), such
 My other equally awesome projects include:
 - [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer made with Arduino UNO R3.
 - [TJ-API](https://github.com/Jegarde/TJ-API), a REST API for counting the days remaining in Finnish conscript service with ASP.NET Core.
+
+#### 📝 Portfolio Tech Stack
+[![Tech Stack](https://skillicons.dev/icons?i=python,cs,c,cpp,arduino,sqlite&theme=light)](https://skillicons.dev)
+And many more...
 
 ### 💖 Support My Work
 ☕ [Ko-fi](https://ko-fi.com/jegarde) / [Patreon](https://patreon.com/c/jegarde)
