@@ -15,9 +15,11 @@ My other equally awesome projects include:
 - [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer made with Arduino UNO R3.
 - [TJ-API](https://github.com/Jegarde/TJ-API), a REST API for counting the days remaining in Finnish conscript service with ASP.NET Core.
 
-#### 📝 Portfolio Tech Stack
+#### ⚙️ Portfolio Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=python,cs,c,cpp,arduino,sqlite&theme=light)](https://skillicons.dev)
 And many more...
+
+Currently focused on expanding my tech stack! 🔧
 
 ### 💖 Support My Work
 ☕ [Ko-fi](https://ko-fi.com/jegarde) / [Patreon](https://patreon.com/c/jegarde)
