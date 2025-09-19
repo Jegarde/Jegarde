@@ -15,6 +15,7 @@ I am most known for my projects involving [Rec Room](https://recroom.com/), such
 My other equally awesome projects include:
 - [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer made with Arduino UNO R3.
 - [TJ-API](https://github.com/Jegarde/TJ-API), a REST API for counting the days remaining in Finnish conscript service with ASP.NET Core.
+- [arvomerkki-peli](https://github.com/Jegarde/arvomerkki-peli), a byte-sized game for learning the Finnish army's ranks 
 
 #### ⚙️ Portfolio Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=python,cs,c,cpp,arduino,sqlite&theme=light)](https://skillicons.dev)
