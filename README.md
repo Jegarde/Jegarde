@@ -25,7 +25,4 @@ Currently focused on expanding my tech stack! 🔧
 ### 💖 Support My Work
 ☕ [Ko-fi](https://ko-fi.com/jegarde) 
 
-### 👋 Contact
-📧 [Email](mailto:jesse.tapani.nieminen@gmail.com) / [Discord @Jegarde](https://discord.com/users/293008770957836299)
-
 Come say bello! 🔔 
