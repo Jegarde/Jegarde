@@ -1,4 +1,4 @@
-<img width="961" height="200" alt="Header: Jegarde, aka Jesse, hello buddy!" src="https://github.com/user-attachments/assets/992af08d-160a-4803-bcb6-d45a0ac043c2" />
+<img width="961" height="200" alt="Header: Jegarde, aka Jesse, image of waving cat" src="https://github.com/user-attachments/assets/d100eec4-cff0-4738-8539-43fde3b44705" />
 
 I love sharing my work for free, open to all. Have a look!
 
