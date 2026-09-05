@@ -1,6 +1,6 @@
 <img width="961" height="200" alt="Header: Jegarde, aka Jesse, hello buddy!" src="https://github.com/user-attachments/assets/992af08d-160a-4803-bcb6-d45a0ac043c2" />
 
-I love sharing my work for free, open to all. Quality may wary. Have a look!
+I love sharing my work for free, open to all. Have a look!
 
 ### 📒 Portfolio 
 I am most known for my projects involving [Rec Room](https://recroom.com/), such as:
