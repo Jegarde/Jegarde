@@ -1,6 +1,6 @@
 <img width="961" height="200" alt="Header: Jegarde, aka Jesse, hello buddy!" src="https://github.com/user-attachments/assets/992af08d-160a-4803-bcb6-d45a0ac043c2" />
 
-I love sharing my work for free, open to all. Have a look!
+I love sharing my work for free, open to all. Quality may wary. Have a look!
 
 ### 📒 Portfolio 
 I am most known for my projects involving [Rec Room](https://recroom.com/), such as:
@@ -13,14 +13,13 @@ I am most known for my projects involving [Rec Room](https://recroom.com/), such
 - The [VR experiences](https://rec.net/user/Jegarde/rooms) I have created in Rec Room with their UGC tools.
   
 My other equally awesome projects include:
-- [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer made with Arduino UNO R3.
+- [arduino-drum-pad](https://github.com/Jegarde/Arduino-Drum-Pad), a MIDI drum pad that connects with DAWs.
+- [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer.
 - [arvomerkki-peli](https://github.com/Jegarde/arvomerkki-peli), a byte-sized game for learning the Finnish army's ranks.
 
 #### ⚙️ Portfolio Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=python,cs,c,cpp,arduino,sqlite&theme=light)](https://skillicons.dev)
 And many more...
-
-Currently focused on expanding my tech stack! 🔧
 
 ### 💖 Support My Work
 ☕ [Ko-fi](https://ko-fi.com/jegarde) 
