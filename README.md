@@ -3,7 +3,7 @@
 I love sharing my work for free, open to all. Have a look!
 
 ### 📒 Portfolio 
-I am most known for my projects involving the late [Rec Room](https://recroom.com/)  (RIP), such as:
+I am most known for my projects involving the late [Rec Room](https://en.wikipedia.org/wiki/Rec_Room_(video_game))  (RIP), such as:
 - [RecNetBot](https://github.com/RecNetBot-Development/RecNetBot), a *must-have* Discord bot for any Rec Room related server out there with thousands of monthly users.
 - [RecNetPy](https://github.com/RecNetBot-Development/RecNetPy), the most powerful Rec Room API wrapper that also powers [RecNetBot](https://github.com/RecNetBot-Development/RecNetBot).
 - [RecNet-Login](https://github.com/Jegarde/RecNet-Login), a Python package made for generating a Rec Room OAuth2.0 bearer token.
