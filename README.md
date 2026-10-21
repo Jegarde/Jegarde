@@ -3,16 +3,16 @@
 I love sharing my work for free, open to all. Have a look!
 
 ### 📒 Portfolio 
-I am most known for my projects involving [Rec Room](https://recroom.com/)  (RIP), such as:
+I am most known for my projects involving the late [Rec Room](https://recroom.com/)  (RIP), such as:
 - [RecNetBot](https://github.com/RecNetBot-Development/RecNetBot), a *must-have* Discord bot for any Rec Room related server out there with thousands of monthly users.
-  - Check our [RecNetBot Development](https://github.com/RecNetBot-Development/) organization out!
 - [RecNetPy](https://github.com/RecNetBot-Development/RecNetPy), the most powerful Rec Room API wrapper that also powers [RecNetBot](https://github.com/RecNetBot-Development/RecNetBot).
 - [RecNet-Login](https://github.com/Jegarde/RecNet-Login), a Python package made for generating a Rec Room OAuth2.0 bearer token.
 - [CircuitsAPI](https://github.com/Jegarde/CircuitsAPI), a system to communicate with Rec Room's in-game circuits, which is not possible under normal circumstances.
 - [RecRoomDiscordRPC](https://github.com/Jegarde/RecRoomDiscordRPC), a cross-platform Discord rich presence client for Rec Room.
-- The [VR experiences](https://rec.net/user/Jegarde/rooms) I have created in Rec Room with their UGC tools.
+
+As you can see, most of my projects involve a game that no longer exists. 🙂
   
-My other equally awesome projects include:
+My other smaller projects include:
 - [arduino-drum-pad](https://github.com/Jegarde/Arduino-Drum-Pad), a MIDI drum pad that connects with DAWs.
 - [arduino-pomodoro](https://github.com/Jegarde/arduino-pomodoro), a cute feature-rich Pomodoro timer.
 - [arvomerkki-peli](https://github.com/Jegarde/arvomerkki-peli), a byte-sized game for learning the Finnish army's ranks.
@@ -23,5 +23,3 @@ And many more...
 
 ### 💖 Support My Work
 ☕ [Ko-fi](https://ko-fi.com/jegarde) 
-
-Come say bello! 🔔 
